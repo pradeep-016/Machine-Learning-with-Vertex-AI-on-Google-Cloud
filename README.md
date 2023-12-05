@@ -17,7 +17,7 @@ This repository contains code and resources related to machine learning using Go
 
 Before running the code, make sure you have the following installed:
 
-- Python (version x.x.x)
+- Python (version 3.10.8)
 - Google Cloud SDK
 - Additional dependencies (list them, if any)
 
