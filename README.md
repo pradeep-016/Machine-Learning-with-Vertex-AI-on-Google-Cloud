@@ -1,4 +1,4 @@
-##﻿# Machine-Learning-with-Vertex-AI-on-Google-Cloud
+# Machine-Learning-with-Vertex-AI-on-Google-Cloud
 
 ## Overview
 
