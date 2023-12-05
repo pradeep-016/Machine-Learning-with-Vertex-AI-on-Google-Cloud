@@ -42,9 +42,9 @@ Before running the code, make sure you have the following installed:
    gcloud auth application-default login
    ```
 
-4. Additional setup steps, if any.
+4. 
 
-### Using BigQuery for Data Collection
+### Using Tensorflow for Model Creation
 
 1. Create a BigQuery dataset and table for your project.
 
