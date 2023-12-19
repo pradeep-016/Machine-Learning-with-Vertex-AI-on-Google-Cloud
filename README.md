@@ -42,7 +42,6 @@ Before running the code, make sure you have the following installed:
    gcloud auth application-default login
    ```
 
-4. 
 
 ### Using Tensorflow for Model Creation
 
